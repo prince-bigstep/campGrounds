@@ -1,0 +1,26 @@
+{
+  "name": "campGrounds",
+  "version": "1.0.0",
+  "description": "Info and review system for travel geeks to explore different camping grounds with location.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prince-bigstep/campGrounds.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prince-bigstep/campGrounds/issues"
+  },
+  "homepage": "https://github.com/prince-bigstep/campGrounds#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.12.5"
+  }
+}
